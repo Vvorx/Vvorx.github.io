@@ -2,16 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vvorx.github.io/posts/</loc>
+    <loc>https://vvorx.github.io/about/</loc>
+    <lastmod>2024-01-22T17:32:42+00:00</lastmod>
+  </url><url>
+    <loc>https://vvorx.github.io/posts/hello/</loc>
     <lastmod>2024-01-18T14:32:20+00:00</lastmod>
   </url><url>
-    <loc>https://vvorx.github.io/posts/test/</loc>
+    <loc>https://vvorx.github.io/posts/</loc>
     <lastmod>2024-01-18T14:32:20+00:00</lastmod>
   </url><url>
     <loc>https://vvorx.github.io/</loc>
     <lastmod>2024-01-18T14:32:20+00:00</lastmod>
   </url><url>
     <loc>https://vvorx.github.io/categories/</loc>
+  </url><url>
+    <loc>https://vvorx.github.io/series/</loc>
   </url><url>
     <loc>https://vvorx.github.io/tags/</loc>
   </url>

@@ -3,7 +3,7 @@ title = "Vvorx"
 author = "Igor Kopka"
 canonifyurls = true
 languagecode = "en"
-theme = "black-and-light"
+theme = "hermit"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true

@@ -1,0 +1,27 @@
+baseurl = "https://vvorx.github.io/"
+title = "Vvorx"
+author = "Igor Kopka"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Igor Kopka"
+  disableWebFonts = false
+
+[[menu.main]]
+    name = "About"
+    url  = ""
+[[menu.main]]
+    name = "Projects"
+    url  = ""
+[[menu.main]]
+    name = "Resume"
+    url  = "pdf/IgorKopkaCV.pdf"
+[[menu.main]]
+    name = "Bookshelf"
+    url = ""
+

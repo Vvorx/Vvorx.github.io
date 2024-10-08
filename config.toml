@@ -85,7 +85,6 @@ expiryDate = ["expiryDate"]
   themeColor = "#494f5c"
 
   #homeSubtitle = "CHANGE ME HOME SUBTITLE"
-  footerCopyright = "Made with Hugo with Hermit-v2"
   # footerHideThemeName = false
   # bgImg = ""
   # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
@@ -122,19 +121,30 @@ expiryDate = ["expiryDate"]
     name = "github"
     url = "https://github.com/Vvorx"
 
+  [[params.socialLinks]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/igorkopka/"
+
 [menu]
 
   [[menu.main]]
     name = "About"
-    url = "about/"
+    url = "/about/ "
     weight = 10
 
   [[menu.main]]
+    name = "Projects"
+    url = "projects/"
+    weight = 15
+
+  [[menu.main]]
     name = "Posts"
+    url = "posts/"
     weight = 20
 
   [[menu.main]]
     name = "Bookshelf"
+    url = "/bookshelf/"
     weight = 30
 
   [[menu.main]]

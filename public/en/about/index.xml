@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Igor Kopka</title>
+    <link>//localhost:1313/en/about/</link>
+    <description>Recent content in Abouts on Igor Kopka</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Oct 2024 13:06:03 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/en/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/en/about/about/</link>
+      <pubDate>Mon, 07 Oct 2024 13:06:03 +0100</pubDate>
+      <guid>//localhost:1313/en/about/about/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

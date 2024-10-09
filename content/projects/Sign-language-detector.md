@@ -1,7 +1,7 @@
 ---
 title: "Sign Language Detector"
 date: 2024-10-09T13:25:29+01:00
-draft: true
+draft: false
 ---
 
 ## THIS IS A PROJECT FROM 2023 (First study year)

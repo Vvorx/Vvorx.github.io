@@ -20,7 +20,7 @@
       <link>//localhost:1313/en/projects/y86-disassembler/</link>
       <pubDate>Wed, 09 Oct 2024 13:24:40 +0100</pubDate>
       <guid>//localhost:1313/en/projects/y86-disassembler/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;this-is-a-project-from-2023-first-study-year&#34;&gt;THIS IS A PROJECT FROM 2023 (First study year)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Vvorx/Y86-Disassembler&#34;&gt;https://github.com/Vvorx/Y86-Disassembler&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;&#xA;&lt;p&gt;This project marks the first &amp;ldquo;big&amp;rdquo; coding assignment in our course, aimed at developing a disassembler for the y86 Instruction Set Architecture (ISA). Understanding machine language and processor design is key, as the y86 ISA serves as the interface between high-level programming languages and hardware. The project is structured into three tasks that progressively build the program.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Learning Objectives:&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

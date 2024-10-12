@@ -6,21 +6,21 @@
     <description>Recent content in Projects on Igor Kopka</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Oct 2024 13:25:29 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 03 May 2023 13:24:40 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/en/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Sign Language Detector</title>
-      <link>//localhost:1313/en/projects/sign-language-detector/</link>
-      <pubDate>Wed, 09 Oct 2024 13:25:29 +0100</pubDate>
-      <guid>//localhost:1313/en/projects/sign-language-detector/</guid>
-      <description>&lt;h2 id=&#34;this-is-a-project-from-2023-first-study-year&#34;&gt;THIS IS A PROJECT FROM 2023 (First study year)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Vvorx/SignLanguageDetector/&#34;&gt;https://github.com/Vvorx/SignLanguageDetector/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;&#xA;&lt;p&gt;On the first day of the module we were assigned into random groups, within those groups we had to each pick a role we&amp;rsquo;d fulfill in the project. I ended up leading the project meaning I had to assign tasks towards each individual member as well as manage the overall trajectory that the project was heading into (I also did all the coding). Our first idea was to create a data-driven shopping website however we quickly came to realise that a lot of other groups were doing the exact same thing leading us to change the idea to a Sign Language Detector.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Y86 Disassembler</title>
       <link>//localhost:1313/en/projects/y86-disassembler/</link>
-      <pubDate>Wed, 09 Oct 2024 13:24:40 +0100</pubDate>
+      <pubDate>Wed, 03 May 2023 13:24:40 +0100</pubDate>
       <guid>//localhost:1313/en/projects/y86-disassembler/</guid>
-      <description>&lt;h2 id=&#34;this-is-a-project-from-2023-first-study-year&#34;&gt;THIS IS A PROJECT FROM 2023 (First study year)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Vvorx/Y86-Disassembler&#34;&gt;https://github.com/Vvorx/Y86-Disassembler&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;&#xA;&lt;p&gt;This project marks the first &amp;ldquo;big&amp;rdquo; coding assignment in our course, aimed at developing a disassembler for the y86 Instruction Set Architecture (ISA). Understanding machine language and processor design is key, as the y86 ISA serves as the interface between high-level programming languages and hardware. The project is structured into three tasks that progressively build the program.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Learning Objectives:&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/Vvorx/Y86-Disassembler&#34;&gt;https://github.com/Vvorx/Y86-Disassembler&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;&#xA;&lt;p&gt;This project marks the first &amp;ldquo;big&amp;rdquo; coding assignment in our course, aimed at developing a disassembler for the y86 Instruction Set Architecture (ISA). Understanding machine language and processor design is key, as the y86 ISA serves as the interface between high-level programming languages and hardware. The project is structured into three tasks that progressively build the program.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Learning Objectives:&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Data Representation in Computers: Gain insights into how computers represent and execute instructions&lt;/li&gt;&#xA;&lt;li&gt;Building a Simple Computer: Simulate a basic computer system with few instruction sets&lt;/li&gt;&#xA;&lt;li&gt;Improve Problem-Solving: Strengthen problem-solving skills by working bit by bit throught the tasks&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;Tasks Breakdown:&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sign Language Detector</title>
+      <link>//localhost:1313/en/projects/sign-language-detector/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/projects/sign-language-detector/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/Vvorx/SignLanguageDetector/&#34;&gt;https://github.com/Vvorx/SignLanguageDetector/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;&#xA;&lt;p&gt;On the first day of the module we were assigned into random groups, within those groups we had to each pick a role we&amp;rsquo;d fulfill in the project. I ended up leading the project meaning I had to assign tasks towards each individual member as well as manage the overall trajectory that the project was heading into (I also did all the coding). Our first idea was to create a data-driven shopping website however we quickly came to realise that a lot of other groups were doing the exact same thing leading us to change the idea to a Sign Language Detector.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

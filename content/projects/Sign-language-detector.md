@@ -1,10 +1,8 @@
 ---
 title: "Sign Language Detector"
-date: 2024-10-09T13:25:29+01:00
+date: 2024--06T13:25:29+01:00
 draft: false
 ---
-
-## THIS IS A PROJECT FROM 2023 (First study year)
 
 <https://github.com/Vvorx/SignLanguageDetector/>
 
@@ -25,4 +23,5 @@ We had a fair share of difficulties when working on the project. For one, nobody
  
  ### Some basic examples of hand detection
  ![Hand Detection](/handsigns.jpg)
+ 
 

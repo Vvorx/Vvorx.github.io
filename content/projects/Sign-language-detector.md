@@ -1,6 +1,6 @@
 ---
 title: "Sign Language Detector"
-date: 2024--06T13:25:29+01:00
+date: 2024-07-06T13:25:29+01:00
 draft: false
 ---
 
